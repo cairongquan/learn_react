@@ -1,0 +1,10 @@
+table {
+    min-height: 25px;
+    line-height: 25px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+}

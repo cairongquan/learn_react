@@ -1,0 +1,11 @@
+.mainOutBox {
+    width: 500px;
+    height: 400px;
+    background-color: #61dafb;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
